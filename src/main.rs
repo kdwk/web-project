@@ -1,5 +1,4 @@
 use axum::{Router, response::IntoResponse, routing::get};
-use std::net::SocketAddr;
 
 // #[tokio::main]
 #[shuttle_runtime::main]
